@@ -1,0 +1,23 @@
+
+*{
+    box-sizing: border-box;
+}
+#myBox{
+    width: 10rem;
+    height:10rem;
+    margin: .5rem;
+    padding: 2rem;;
+    background-color: rgb(246, 151, 139);
+    border: 1px solid red;
+    border-radius: 10%;
+    text-align: center;
+    
+}
+
+#Changing{
+    
+    margin: 15px;
+    flex-direction: row;
+  
+
+}
